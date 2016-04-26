@@ -1,0 +1,5 @@
+# ignore precompiled python files
+*.pyc
+
+# ignore downloaded apps
+*.apk
